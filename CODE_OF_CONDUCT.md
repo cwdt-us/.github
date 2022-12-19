@@ -1,5 +1,4 @@
-# Code of Conduct v2.0
-
+# Code of Conduct
 This code of conduct outlines our expectations for participants within the [CWDT](https://cwdt.us)
 community, as well as steps to reporting unacceptable behavior. We are committed to providing a
 welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who
@@ -80,9 +79,11 @@ protecting victims of abuse.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual
 engages in unacceptable behavior, the representative may take any action they deem appropriate, up
-to and including a permanent ban from our community without warning. ## Thanks This code of conduct
-is based on [Twitter OSS's Code of
-Conduct](https://github.com/twitter/.github/blob/main/code-of-conduct.md) which in turn is
-based on the [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) from the
-[TODOGroup](http://todogroup.org). We are thankful for their work and all the communities who have
-paved the way with code of conducts.
+to and including a permanent ban from our community without warning.
+
+## Thanks
+This code of conduct is based on
+[Twitter OSS's Code of Conduct](https://github.com/twitter/.github/blob/main/code-of-conduct.md)
+which in turn is based on the [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct)
+from the [TODOGroup](http://todogroup.org). We are thankful for their work and all the communities
+who have paved the way with code of conducts.
